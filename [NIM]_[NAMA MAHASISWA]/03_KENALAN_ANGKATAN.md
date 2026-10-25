@@ -181,7 +181,7 @@
 * **Fun Fact:** cinta kecap
 
 ### 17 264311017 - Jelita Palupi Kusuma Wardani
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/tata.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jelita Palupi Kusuma Wardani
 * **NIM:** 264311017
 * **TTL:** Sidoarjo, 17 Maret 2008
