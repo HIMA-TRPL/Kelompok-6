@@ -60,7 +60,7 @@
 * **Fun Fact:** Hiking
 
 ### 06 264311006 - Aulia Fatmawati
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/aul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Fatmawati
 * **NIM:** 264311006
 * **TTL:** Madiun, 09 November 2007
