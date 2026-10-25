@@ -258,7 +258,7 @@
 * **Fun Fact:** lagi rewatch marvel💚
 
 ### 24 264311024 - Ngazimatul Khusna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/azim.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ngazimatul Khusna
 * **NIM:** 264311024
 * **TTL:** Ngawi, 12 Juli 2007
