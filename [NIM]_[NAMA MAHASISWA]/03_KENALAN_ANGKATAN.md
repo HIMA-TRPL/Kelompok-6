@@ -82,7 +82,7 @@
 * **Fun Fact:** Love matcha dan capybara💚🤎
 
 ### 08 264311008 - Bertha Sampoerna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/bertha.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bertha Sampoerna
 * **NIM:** 264311008
 * **TTL:** Ngawi, 29 Januari 2008
