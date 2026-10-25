@@ -214,7 +214,7 @@
 * **Fun Fact:** suka main gitar
 
 ### 20 264311020 - Mahija Parama Urdha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/mahija.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mahija Parama Urdha
 * **NIM:** 264311020
 * **TTL:** Ponorogo, 11 Januari 2008
