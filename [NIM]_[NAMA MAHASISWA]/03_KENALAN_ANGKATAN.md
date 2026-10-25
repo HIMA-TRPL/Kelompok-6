@@ -104,7 +104,7 @@
 * **Fun Fact:** Suka mendengarkan musik, hobi otomotif, tidak suka bubur
 
 ### 10 264311010 - Dava Al Mustoffa Dachlan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/dava.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dava Al Mustoffa Dachlan
 * **NIM:** 264311010
 * **TTL:** Magetan, 17 Maret 2007
