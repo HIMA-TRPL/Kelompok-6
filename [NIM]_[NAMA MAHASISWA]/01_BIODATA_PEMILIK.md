@@ -8,7 +8,7 @@
 * **Nama Kelompok:** Spring
 * **Asal Daerah:** Ponorogo, Kabupaten Ponorogo
 * **Asal Sekolah:** SMKN 1 Jenangan Ponorogo
-* **Fun Fact:** Suka Belajar Hal Baru 
+* **Fun Fact:** Cadel
 
 ---
 
