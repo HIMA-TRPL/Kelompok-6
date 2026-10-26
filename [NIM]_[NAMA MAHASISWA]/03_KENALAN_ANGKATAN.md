@@ -449,7 +449,7 @@
 * **Fun Fact:** males error
 
 ### 41 264311041 - Fauzan Wisam Falahul Bashiroh
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/fauzan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fauzan Wisam Falahul Bashiroh
 * **NIM:** 264311041
 * **TTL:** Ngawi, 01 September 2007
