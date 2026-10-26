@@ -493,7 +493,7 @@
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### 45 264311045 - Keylila Edenia Vinca Susanto
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/kiravin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Keylila Edenia Vinca Susanto
 * **NIM:** 264311045
 * **TTL:** Kota Madiun, 18 Agustus 2007
@@ -537,7 +537,7 @@
 * **Fun Fact:** awas ya ITS tahun depan
 
 ### 49 264311049 - Muhammad Mahlayan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/malayan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Mahlayan
 * **NIM:** 264311049
 * **TTL:** Magetan, 1 Januari 2007
