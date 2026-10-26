@@ -148,7 +148,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### 14 264311014 - Elvan Syahputra Idham
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/elvan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elvan Syahputra Idham
 * **NIM:** 264311014
 * **TTL:** Madiun, 08 Maret 2008
