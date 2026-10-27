@@ -849,7 +849,7 @@
 * **Fun Fact:** SARAPAN KOPI IRENK
 
 ### 77 264311077 - Muhammad Zakiy Fuadiy
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/kiyahjpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/kiyah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Zakiy Fuadiy
 * **NIM:** 264311077
 * **TTL:** Pacitan, 7 Maret 2006
