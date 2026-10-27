@@ -625,7 +625,7 @@
 * **Fun Fact:** FANS KING EMYU
 
 ### 57 264311057 - Roefando Adji Ramadhan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/roefando.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan
 * **NIM:** 264311057
 * **TTL:** Jakarta, 10 Oktober 2007
