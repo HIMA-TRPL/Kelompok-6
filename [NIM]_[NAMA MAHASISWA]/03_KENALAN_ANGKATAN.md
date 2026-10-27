@@ -126,7 +126,7 @@
 * **Fun Fact:** RACING ABIEZ
 
 ### 12 264311012 - Dimas Pramodya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/dimas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dimas Pramodya Bagaskara
 * **NIM:** 264311012
 * **TTL:** Ponorogo, 05 Mei 2008
