@@ -115,7 +115,7 @@
 * **Fun Fact:** Cool
 
 ### 11 264311011 - Dhafin Hasya Zaki
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Dhafin.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dhafin Hasya Zaki
 * **NIM:** 264311011
 * **TTL:** Madiun, 28 Juli 2007
@@ -148,7 +148,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### 14 264311014 - Elvan Syahputra Idham
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Elvan.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elvan Syahputra Idham
 * **NIM:** 264311014
 * **TTL:** Madiun, 08 Maret 2008
