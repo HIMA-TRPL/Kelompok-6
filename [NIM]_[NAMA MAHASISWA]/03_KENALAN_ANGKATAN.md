@@ -926,7 +926,7 @@
 * **Fun Fact:** SUKA NGEGAME
 
 ### 84 264311085 - Syahga Reyhan Surya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/rehan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
 * **TTL:** Sidoarjo, 22 Januari 2007
