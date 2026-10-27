@@ -783,7 +783,7 @@
 * **Fun Fact:** KEBAL AMERICANO 5 SHOOT
 
 ### 71 264311071 - Iltizam Ahmad Syahida
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/iltizam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Iltizam Ahmad Syahida
 * **NIM:** 264311071
 * **TTL:** Maospati, 24 Maret 2007
