@@ -893,7 +893,7 @@
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
 ### 81 264311081 - Putri Nurhaliza
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/putrii.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Putri Nurhaliza
 * **NIM:** 264311081
 * **TTL:** Madiun, 8 Juni 2007
