@@ -816,7 +816,7 @@
 * **Fun Fact:** Game garis keras
 
 ### 74 264311074 - Mar'atus Sofiana Azkiya
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/azkiya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mar'atus Sofiana Azkiya
 * **NIM:** 264311074
 * **TTL:** Ponorogo, 18 Januari 2008
