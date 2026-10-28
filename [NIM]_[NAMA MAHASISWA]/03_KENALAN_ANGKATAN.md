@@ -82,7 +82,7 @@
 * **Fun Fact:** Love matcha dan capybara💚🤎
 
 ### 08 264311008 - Bertha Sampoerna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/bertha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bertha Sampoerna
 * **NIM:** 264311008
 * **TTL:** Ngawi, 29 Januari 2008
@@ -225,7 +225,7 @@
 * **Fun Fact:** baik
 
 ### 21 264311021 - Muhammad Ridwan Nazim
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/ridwan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ridwan Nazim
 * **NIM:** 264311021
 * **TTL:** Jakarta, 25 Mei 2007
@@ -258,7 +258,7 @@
 * **Fun Fact:** lagi rewatch marvel💚
 
 ### 24 264311024 - Ngazimatul Khusna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/azim.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ngazimatul Khusna
 * **NIM:** 264311024
 * **TTL:** Ngawi, 12 Juli 2007
