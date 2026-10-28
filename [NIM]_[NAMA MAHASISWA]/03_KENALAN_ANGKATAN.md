@@ -350,7 +350,7 @@
 * **Fun Fact:** tidak kuat dengan makanan pedas
 
 ### 32 264311032 - Ahmad Raisya Al Iqsan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/ahmad raisya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ahmad Raisya Al Iqsan
 * **NIM:** 264311032
 * **TTL:** Ponorogo, 27 November 2007
