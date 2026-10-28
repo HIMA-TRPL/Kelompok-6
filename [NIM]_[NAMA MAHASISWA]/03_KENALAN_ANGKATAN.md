@@ -394,7 +394,7 @@
 * **Fun Fact:** bersin bersin habis ngekek
 
 ### 36 264311036 - Annisa Nimasturna Meysarahma
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/anastasya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/nimas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Annisa Nimasturna Meysarahma
 * **NIM:** 264311036
 * **TTL:** Kota Madiun, 07 Mei 2007
