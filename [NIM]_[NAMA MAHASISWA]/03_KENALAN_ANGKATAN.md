@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### 01 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/MAHASISWA_BARU/Kelas_1A/Adhinia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
@@ -71,7 +71,7 @@
 * **Fun Fact:** Tidak suka pedas
 
 ### 07 264311007 - Aurelysta Bunga Dhias Mawarni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Aurelysta.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aurelysta Bunga Dhias Mawarni
 * **NIM:** 264311007
 * **TTL:** Mojokerto, 25 Juni 2007
@@ -214,7 +214,7 @@
 * **Fun Fact:** suka main gitar
 
 ### 20 264311020 - Mahija Parama Urdha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Mahija.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mahija Parama Urdha
 * **NIM:** 264311020
 * **TTL:** Ponorogo, 11 Januari 2008
@@ -247,7 +247,7 @@
 * **Fun Fact:** wallahualam😊🩵
 
 ### 23 264311023 - Nashwa Nadia Nurlatifa
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Nashwa.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nashwa Nadia Nurlatifa
 * **NIM:** 264311023
 * **TTL:** Bojonegoro, 31 Maret 2008
