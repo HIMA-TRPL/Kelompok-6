@@ -647,7 +647,7 @@
 * **Fun Fact:** fans madrid
 
 ### 59 264311059 - Sinara Endrya Alnegar
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/sinara.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sinara Endrya Alnegar
 * **NIM:** 264311059
 * **TTL:** Ponorogo, 9 Juni 2007
