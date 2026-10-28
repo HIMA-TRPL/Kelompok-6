@@ -361,7 +361,7 @@
 * **Fun Fact:** SUKA HEALING
 
 ### 33 264311033 - Akbar Putra Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Akbar Putra Pratama
 * **NIM:** 264311033
 * **TTL:** Kota Madiun, 25 Januari 2007
