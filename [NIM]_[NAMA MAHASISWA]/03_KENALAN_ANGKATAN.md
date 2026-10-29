@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### 01 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/MAHASISWA_BARU/Kelas_1A/Adhinia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/MAHASISWA_BARU/Kelas_1A/Adhinia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
@@ -170,7 +170,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### 16 264311016 - Fatikha Artemisia
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Artemisia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fatikha Artemisia
 * **NIM:** 264311016
 * **TTL:** Magetan, 16 Desember 2007
@@ -203,7 +203,7 @@
 * **Fun Fact:** suka lagu LANA DEL REY
 
 ### 19 264311019 - Khansa Qais Fernanda
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Fernanda.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Khansa Qais Fernanda
 * **NIM:** 264311019
 * **TTL:** Madiun, 21 Februari 2008
