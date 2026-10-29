@@ -871,7 +871,7 @@
 * **Fun Fact:** Suka warna hitam
 
 ### 79 264311079 - Neisya Grazia Aulia Firdianty
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/neisya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Neisya Grazia Aulia Firdianty
 * **NIM:** 264311079
 * **TTL:** Madiun, 19 Juli 2007
