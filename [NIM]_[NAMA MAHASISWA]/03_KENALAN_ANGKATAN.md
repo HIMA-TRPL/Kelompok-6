@@ -882,7 +882,7 @@
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
 ### 80 264311080 - Nova
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
 * **TTL:** Bojonegoro, 3 November 2007
@@ -904,7 +904,7 @@
 * **Fun Fact:** Pacarku banyakkkkkkk
 
 ### 82 264311082 - R. Nabil Wijaya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-R. NABIL WIJAYA PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
 * **TTL:** Magetan, 9 Agustus 2008
