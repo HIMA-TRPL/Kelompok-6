@@ -145,11 +145,11 @@
 ### [14] PSDM - [Rindy Cantika Agustina P.]
 * <img src="assets/PANITIA/PSDM/PSDM - RRindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Anggota]
+* **TTL:** [Mandiun,31_Agustus_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PSDM - [Abdul Aziz Mushthofa]
@@ -367,7 +367,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_Widodo]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Madiun,26_September_2005]
@@ -387,7 +387,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perkap]
 * **TTL:** [Jakarta,18_Januari_2007]
@@ -411,7 +411,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -421,7 +421,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -431,7 +431,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -461,7 +461,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
