@@ -517,7 +517,7 @@
 * **Fun Fact:** [Berani_Beda]
 
 ### [17] [264311047] - [MOHAMAD FATIR]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047-MOHAMAD_FATIR.Jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047-MOHAMAD_FATIR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MOHAMAD_FATIR]
 * **NIM:** [264311047]
 * **TTL:** [TTL_MAHASISWA_BARU]
@@ -594,7 +594,7 @@
 * **Fun Fact:** [suka_ngopi]
 
 ### [24] [264311054] - [PANJI YUWONO WIJOYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-PANJI_YUWONO_WIJOYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-Panji_Yuwono_Wijaya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
 * **NIM:** [264311054]
 * **TTL:** [MADIUN,_22_FEBRUARI_2008]
@@ -686,7 +686,7 @@
 * **Fun Fact:** [Suka_hal_hal_simpel]
 
 ### [03] [264311062] - [AZZAM FAUZY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062-AZZAM_FAUZY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AZZAM_FAUZY]
 * **NIM:** [264311062]
 * **TTL:** [MAGETAN,_24_JANUARI_2008]
@@ -730,7 +730,7 @@
 * **Fun Fact:** [CINTA_MATI_UB]
 
 ### [07] [264311066] - [DWI RISKI NUGROHO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066-DWI_RISKI_NUGROHO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DWI_RISKI_NUGROHO]
 * **NIM:** [264311066]
 * **TTL:** [PONOROGO,_22_APRIL_2007]
@@ -807,7 +807,7 @@
 * **Fun Fact:** [MALAS_NGODING]
 
 ### [14] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-ZAM_ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
 * **TTL:** [MADIUN,_21_JULI_2008]
@@ -851,7 +851,7 @@
 * **Fun Fact:** [SARAPAN_KOPI_IRENK]
 
 ### [18] [264311077] - [MUHAMMAD ZAKIY FUADIY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
 * **NIM:** [264311077]
 * **TTL:** [PACITAN,_7_MARET_2006]
@@ -873,7 +873,7 @@
 * **Fun Fact:** [Suka_warna_hitam]
 
 ### [20] [264311079] - [NEISYA GRAZIA AULIA FIRDIANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
 * **TTL:** [MADIUN,_19_JULI_2007]
