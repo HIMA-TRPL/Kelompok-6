@@ -290,7 +290,7 @@
 <!-- Line Comment TTD Panitia 27 wajib ditargetkan pada baris komentar ini -->
 
 ### [28] PDD - [Dinda Rahmawati]
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati 2.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dinda_Rahmawati]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,9_September_2006]
