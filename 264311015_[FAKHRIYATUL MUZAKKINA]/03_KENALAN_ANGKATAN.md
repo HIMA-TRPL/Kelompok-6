@@ -594,7 +594,7 @@
 * **Fun Fact:** [suka_ngopi]
 
 ### [24] [264311054] - [PANJI YUWONO WIJOYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-Panji_Yuwono_Wijaya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-Panji_Yuwono_Wijoyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
 * **NIM:** [264311054]
 * **TTL:** [MADIUN,_22_FEBRUARI_2008]
@@ -807,7 +807,7 @@
 * **Fun Fact:** [MALAS_NGODING]
 
 ### [14] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-ZAM_ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-JALALLUDDIN_ZAM_ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
 * **TTL:** [MADIUN,_21_JULI_2008]
@@ -884,7 +884,7 @@
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
 ### [21] [264311080] - [NOVA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NOVA]
 * **NIM:** [264311080]
 * **TTL:** [BOJONEGORO,_3_NOVEMBER_2007]
@@ -917,7 +917,7 @@
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
 ### [24] [264311083] - [SATRIA PANDU ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-SATRIA_PANDU_ADMAJA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311082]
 * **TTL:** [PONOROGO,_20_APRIL_2008]
