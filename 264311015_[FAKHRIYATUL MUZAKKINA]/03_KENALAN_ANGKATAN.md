@@ -877,11 +877,7 @@
 * **Fun Fact:** [Suka_warna_hitam]
 
 ### [20] [264311079] - [NEISYA GRAZIA AULIA FIRDIANTY]
-<<<<<<< HEAD
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079 - NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-=======
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
->>>>>>> 80f3078a5cf9c41c0fa5d13df1c8919c753d87be
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
 * **TTL:** [MADIUN,_19_JULI_2007]
