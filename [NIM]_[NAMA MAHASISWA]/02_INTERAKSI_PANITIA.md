@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [Firdaus Ilham F.]
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri-Firdaus Ilham F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Firdaus_Ilham_F.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,01_Januari_2007]
