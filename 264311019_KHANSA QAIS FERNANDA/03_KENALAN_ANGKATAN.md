@@ -761,7 +761,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 69 264311069 - Ghaza Zaidan Al-ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/Kelompok-12__264311075-MuhammadAhnafGhifari__264311019 - KHANSA_QAIS_FERNANDA.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
 * **TTL:** Madiun, 31 Oktober 2007

@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM - RRindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Mandiun,31_Agustus_2006]
@@ -304,7 +304,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - [Andrian Maulana]
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - ADRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
 * **TTL:** []
@@ -411,7 +411,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -460,14 +460,14 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Ervindy Anjuni Nurmasari
-* **Jabatan:** Volunteer (Konsumsi)
-* **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** -
-* **Username GitHub:** @erov1n
-* **Asal Daerah:** Madiun
+### [44] Volunteer - Galang Surya
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya
+* **Jabatan:** Volunteer 
+* **TTL:** Tangerang, 19 Februari 2007
+* **Nomer Handphone:** 0812407074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---
