@@ -492,3 +492,6 @@
 * **Asal Daerah:** [kalimantan_timur]
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
+
+## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
+> **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
