@@ -807,7 +807,7 @@
 * **Fun Fact:** [MALAS_NGODING]
 
 ### [14] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-JALALLUDDIN_ZAM-ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
 * **TTL:** [MADIUN,_21_JULI_2008]
