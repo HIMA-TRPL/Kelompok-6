@@ -465,8 +465,8 @@
 * **Nama Panitia:** [Ervindy Anjuni Nurmasari]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Madiun,21_Juni_2006]
-* **Nomer Handphone:** -
-* **Username GitHub:** @erov1n]
+* **Nomer Handphone:** [085733213487]
+* **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
