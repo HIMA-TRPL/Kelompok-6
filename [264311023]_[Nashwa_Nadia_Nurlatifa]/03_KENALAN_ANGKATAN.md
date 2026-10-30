@@ -762,7 +762,7 @@
 * **Fun Fact:** [SUKA_MIE_AYAM]
 
 ### [69] [264311069] - [GHAZA ZAIDAN AL-GHIFARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311069-GHAZA_ZAIDAN_AL-GHIFARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [GHAZA_ZAIDAN_AL-GHIFARI]
 * **NIM:** [264311069]
 * **TTL:** [MADIUN,_31_OKTOBER_2007]
