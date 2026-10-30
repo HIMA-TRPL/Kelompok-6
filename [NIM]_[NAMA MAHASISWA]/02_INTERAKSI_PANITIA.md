@@ -357,7 +357,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [34] Humas - Adam Noverian
-* <img src="assets/PANITIA/Humas/HUMAS - Adam Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Adam Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
 * **Jabatan:** [Ketua_Humas]
 * **TTL:** [Surabaya,08_November_2005]
@@ -367,7 +367,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/HUMAS - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_Widodo]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Madiun,26_September_2005]
@@ -377,7 +377,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/HUMAS - Alvina Nur Laila Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Alvina Nur Laila Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvina_Nur_Laila_Anggraini]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Surabaya,31_Maret_2005]
@@ -387,7 +387,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/HUMAS - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Cristian Reynaldi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perkap]
 * **TTL:** [Jakarta,18_Januari_2007]
@@ -397,7 +397,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/HUMAS - Atha Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Atha Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
 * **Jabatan:** [Staff_Humas]
 * **TTL:** [Madiun,22_Februari_2005]
@@ -421,7 +421,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] VOLUNTEER - [Indah Ayu Astuti]
-* <img src="assets/PANITIA/VOLUNTEER/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Indah Ayu Astuti.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Indah_Ayu_Astuti]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Ponorogo,27_Desember_2006]
@@ -431,7 +431,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] VOLUNTEER - [Kunni Sofa Rahmayani]
-* <img src="assets/PANITIA/VOLUNTEER/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Kunni Sofa Rahmayani.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Kunni_Sofa_Rahmayani]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Madiun,04_Juli_2006]
@@ -441,7 +441,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [Aisyah Nur Fadillah]
-* <img src="assets/PANITIA/VOLUNTEER/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Aisyah Nur Fadillah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Aisyah_Nur_Fadillah]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Magetan,21_September_2006]
@@ -450,8 +450,8 @@
 * *Asal Daerah:* [Magetan]
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
-### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+### [43] Volunteer - [Nabil Sunu Widya Dhana]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Nabil Sunu Widya Dhana.jpeg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Nabil_Sunu_Widya_Dhana]
 * *Jabatan:* [Volunteer]
 * *TTL:*[Bekasi,15_Maret_2006]
@@ -460,8 +460,8 @@
 * *Asal Daerah:*[Ponorogo]
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+### [44] Volunteer - [Ervindy Anjuni Nurmasari]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Ervindy Anjuni Nurmasari.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Ervindy Anjuni Nurmasari
 * *Jabatan:* Volunteer (Konsumsi)
 * *TTL:* [Madiun,21_Juni_2006]
@@ -471,3 +471,24 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---l. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
+
+### [45] Volunteer - [Nadya Nur Kamila]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Nadya Nur Kamila.jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Nadya_Nur_Kamila]
+* **Jabatan:** [Volunteer]
+* **TTL:** [Madiun,_1_September_2006]
+* **Nomer Handphone:** [085731873063]
+* **Username GitHub:** @[nanayaaa]
+* **Asal Daerah:** [Madiun]
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Galang
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang
+* **Jabatan:** Volunteer Komdis
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Username GitHub:** -
+* **Asal Daerah:** -
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
+---
