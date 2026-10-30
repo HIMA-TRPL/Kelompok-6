@@ -72,10 +72,10 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [Koordinator]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_04]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [Ponorogo,2_Desember_2005]
+* **Nomer Handphone:** [08222537622]
+* **Username GitHub:** @[alvn22]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
@@ -272,11 +272,11 @@
 ### [26] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
-* **Jabatan:** [Staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Anggota]
+* **TTL:** [24_September_2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] PDD - [Daffa Hafist Atha Kuncoro]
