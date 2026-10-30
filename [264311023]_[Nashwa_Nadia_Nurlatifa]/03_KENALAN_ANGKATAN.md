@@ -246,17 +246,6 @@
 * **Asal Sekolah:** [SMAN_1_CEPU]
 * **Fun Fact:** [wallahualam😊🩵]
 
-### [23] [264311023] - [NASHWA NADIA NURLATIFA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023-Nashwa Nadia Nurlatifa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
-* **NIM:** [264311023]
-* **TTL:** [BOJONEGORO,_31_MARET_2008]
-* **Nomer Handphone:** [083117678815]
-* **Nama Kelompok:** [SPRING]
-* **Asal Daerah:** [BOJONEGORO]
-* **Asal Sekolah:** [SMAN_5_TARUNA_BRAWIJAYA]
-* **Fun Fact:** [lagi_rewatch_marvel💚]
-
 ### [24] [264311024] - [NGAZIMATUL KHUSNA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024-NGAZIMATUL_KHUSNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NGAZIMATUL_KHUSNA]
