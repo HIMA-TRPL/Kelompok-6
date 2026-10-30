@@ -615,7 +615,7 @@
 * **Fun Fact:** [gk_suka_makan_pedes]
 
 ### [56] [264311056] - [RESTU PRAYUGA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056-RESTU_PRAYUGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RESTU_PRAYUGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO,_19_JANUARI_2008]
