@@ -247,7 +247,7 @@
 * **Fun Fact:** [wallahualam😊🩵]
 
 ### [23] [264311023] - [NASHWA NADIA NURLATIFA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023-Nashwa Nadia Nurlatifa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
 * **NIM:** [264311023]
 * **TTL:** [BOJONEGORO,_31_MARET_2008]
