@@ -465,7 +465,7 @@
 
 ### [44] Volunteer - Galang
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Galang.jpg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.jpeg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer 
 * **TTL:** Tanggarong, 19 Februari 2007
