@@ -93,7 +93,11 @@
 * **Fun Fact:** [TIDAK_ADA]
 
 ### [09] [264311009] - [BRAMANTA SETYA BAGASKARA]
+<<<<<<< HEAD
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BRAMANTA_SETYA_BAGASKARA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+=======
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BRAMANTA_SETYA_BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+>>>>>>> 80f3078a5cf9c41c0fa5d13df1c8919c753d87be
 * **Nama Lengkap:** [BRAMANTA_SETYA_BAGASKARA]
 * **NIM:** [264311009]
 * **TTL:** [MALANG,_24_NOVEMBER_2007]
@@ -594,7 +598,7 @@
 * **Fun Fact:** [suka_ngopi]
 
 ### [24] [264311054] - [PANJI YUWONO WIJOYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-PANJI_YUWONO_WIJOYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-Panji_Yuwono_Wijoyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
 * **NIM:** [264311054]
 * **TTL:** [MADIUN,_22_FEBRUARI_2008]
@@ -807,7 +811,7 @@
 * **Fun Fact:** [MALAS_NGODING]
 
 ### [14] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
 * **TTL:** [MADIUN,_21_JULI_2008]
@@ -851,7 +855,7 @@
 * **Fun Fact:** [SARAPAN_KOPI_IRENK]
 
 ### [18] [264311077] - [MUHAMMAD ZAKIY FUADIY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
 * **NIM:** [264311077]
 * **TTL:** [PACITAN,_7_MARET_2006]
@@ -873,7 +877,11 @@
 * **Fun Fact:** [Suka_warna_hitam]
 
 ### [20] [264311079] - [NEISYA GRAZIA AULIA FIRDIANTY]
+<<<<<<< HEAD
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079 - NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+=======
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+>>>>>>> 80f3078a5cf9c41c0fa5d13df1c8919c753d87be
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
 * **TTL:** [MADIUN,_19_JULI_2007]
@@ -884,7 +892,7 @@
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
 ### [21] [264311080] - [NOVA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NOVA]
 * **NIM:** [264311080]
 * **TTL:** [BOJONEGORO,_3_NOVEMBER_2007]
@@ -917,7 +925,7 @@
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
 ### [24] [264311083] - [SATRIA PANDU ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-SATRIA_PANDU_ADMAJA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311082]
 * **TTL:** [PONOROGO,_20_APRIL_2008]
