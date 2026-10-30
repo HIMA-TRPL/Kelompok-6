@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [Firdaus Ilham F.]
-* <img src="assets/PANITIA/Dagri/Dagri-Firdaus Ilham F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Firdaus_Ilham_F.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,01_Januari_2007]
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] PSDM - [Muhammad Dani T.]
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Dani_T.]
 * **Jabatan:** [Staff]
 * **TTL:** [Denpasar,21_Maret_2006]
@@ -187,7 +187,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [18] Sosma - [Anggi Wahyu Saputra]
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Anggi_Wahyu_Saputra]
 * **Jabatan:** [koordinator]
 * **TTL:** [Tulungagung,14_Juni_2005]
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - Edwin Nur Cahyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Edwin_Nur_Cahyo]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,1_November_2007]
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] Sosma - [Muhsyam Fahriel S.]
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - Muhsyam Fahriel S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhsyam_Fahriel_S.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Ngawi,25_September_2005]
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] Sosma - [Lutfilah Ahmad]
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - Lutfilah Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Lutfilah_Ahmad]
 * **Jabatan:** [Staff]
 * **TTL:** [Magetan,30_Januari_2007]
@@ -357,7 +357,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [34] Humas - Adam Noverian
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Adam Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
 * **Jabatan:** [Ketua_Humas]
 * **TTL:** [Surabaya,08_November_2005]
@@ -367,7 +367,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_Widodo]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Madiun,26_September_2005]
@@ -377,7 +377,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Alvina Nur Laila Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvina_Nur_Laila_Anggraini]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Surabaya,31_Maret_2005]
@@ -387,7 +387,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perkap]
 * **TTL:** [Jakarta,18_Januari_2007]
@@ -397,7 +397,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Atha Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
 * **Jabatan:** [Staff_Humas]
 * **TTL:** [Madiun,22_Februari_2005]
