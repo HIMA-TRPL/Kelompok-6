@@ -92,8 +92,8 @@
 * **Asal Sekolah:** [SLONCOM]
 * **Fun Fact:** [TIDAK_ADA]
 
-### [09] [264311009IM] - [BRAMANTA SETYA BAGASKARA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009IM-BRAMANTA_SETYA_BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [09] [264311009] - [BRAMANTA SETYA BAGASKARA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BRAMANTA_SETYA_BAGASKARA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BRAMANTA_SETYA_BAGASKARA]
 * **NIM:** [264311009]
 * **TTL:** [MALANG,_24_NOVEMBER_2007]
@@ -104,7 +104,7 @@
 * **Fun Fact:** [SUKA_MENDENGARKAN_MUSIK,_HOBI_OTOMOTIF,_TIDAK_SUKA_BUBUR]
 
 ### [10] [264311010] - [DAVA AL MUSTOFFA DACHLAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010- DAVA_AL_MUSTOFFA_DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010-DAVA_AL_MUSTOFFA_DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DAVA_AL_MUSTOFFA_DACHLAN]
 * **NIM:** [264311010]
 * **TTL:** [MAGETAN,_17_MARET_2007]
@@ -248,7 +248,7 @@
 * **Fun Fact:** [wallahualam😊🩵]
 
 ### [23] [264311023] - [NASHWA NADIA NURLATIFA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023-NASHWA_NADIA_NURLATIFA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
 * **NIM:** [264311023]
 * **TTL:** [BOJONEGORO,_31_MARET_2008]
@@ -270,7 +270,7 @@
 * **Fun Fact:** [bisa_tidur_berdiri]
 
 ### [25] [264311025] - [RAFIQ IMAM ZAINI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025-RAFIQ_IMAM_ZAINI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025-RAFIQ_IMAM_ZAINI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAFIQ_IMAM_ZAINI]
 * **NIM:** [264311025]
 * **TTL:** [BALIKPAPAN,_21_DESEMBER_2005]
@@ -517,7 +517,7 @@
 * **Fun Fact:** [Berani_Beda]
 
 ### [17] [264311047] - [MOHAMAD FATIR]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047-MOHAMAD_FATIR.Jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047-MOHAMAD_FATIR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MOHAMAD_FATIR]
 * **NIM:** [264311047]
 * **TTL:** [TTL_MAHASISWA_BARU]
@@ -686,7 +686,7 @@
 * **Fun Fact:** [Suka_hal_hal_simpel]
 
 ### [03] [264311062] - [AZZAM FAUZY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062-AZZAM_FAUZY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AZZAM_FAUZY]
 * **NIM:** [264311062]
 * **TTL:** [MAGETAN,_24_JANUARI_2008]
@@ -730,7 +730,7 @@
 * **Fun Fact:** [CINTA_MATI_UB]
 
 ### [07] [264311066] - [DWI RISKI NUGROHO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066-DWI_RISKI_NUGROHO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DWI_RISKI_NUGROHO]
 * **NIM:** [264311066]
 * **TTL:** [PONOROGO,_22_APRIL_2007]
@@ -873,7 +873,7 @@
 * **Fun Fact:** [Suka_warna_hitam]
 
 ### [20] [264311079] - [NEISYA GRAZIA AULIA FIRDIANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079 - NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
 * **TTL:** [MADIUN,_19_JULI_2007]
