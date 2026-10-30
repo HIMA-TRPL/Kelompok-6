@@ -468,7 +468,7 @@
 * **Nama Panitia:** [Ervindy_Anjuni_Nurmasari]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [Madiun,_21_Juni_2006]
-* **Nomer Handphone:** []
+* **Nomer Handphone:** [085733213487]
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
