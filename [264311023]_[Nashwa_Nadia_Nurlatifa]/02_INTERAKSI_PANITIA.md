@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [Nadia Tifara S.]
-* <img src="assets/PANITIA/Dagri/DAGRI-Nadia_Tifara_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI-Nadia Tifara S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nadia_Tifara_S.]
 * **Jabatan:** [staff]
 * **TTL:** [Madiun,_27_Desember_2005]
