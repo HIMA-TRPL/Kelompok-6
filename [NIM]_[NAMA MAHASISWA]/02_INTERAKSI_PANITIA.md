@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - Bangkit Cahya Linuwih
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.png" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/BANGKIT.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** Staff Muda Dagri
 * **TTL:** Pacitan, 02 April 2006
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - Nadia Tifara Sidiq
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/NADIA TIFARA.jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** Sie Acara
 * **TTL:** Madiun, 27 Desember 2005
@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - Adam Noverian
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.png" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/ADAM NOVERIAN.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Adam Noverian
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W.png" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/MUHAMAD RAUFIA.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid Widodo
 * **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 26 September 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.png" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/ALVINA NUR.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvina Nur Laila Anggraini
 * **Jabatan:** Anggota Humas
 * **TTL:** Surabaya, 31 Maret 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/CHRISTIAN.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
 * **Jabatan:** Perkap
 * **TTL:** Jakarta, 18 Januari 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/ARTHA.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RYAN ZAKARIA.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T.png" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MUHAMAD DANI.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
