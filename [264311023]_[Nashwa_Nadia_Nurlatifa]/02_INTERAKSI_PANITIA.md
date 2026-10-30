@@ -71,11 +71,11 @@
 ### [07] Dagri - [Alvian Dwiky Putra S]
 * <img src="assets/PANITIA/Dagri/DAGRI-Alvian_Dwiky_Putra_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_04]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [koordinator]
+* **TTL:** [Ponorogo,_02_Desember_2005]
+* **Nomer Handphone:** [082292537622]
+* **Username GitHub:** @[alvn22]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
@@ -265,11 +265,11 @@
 ### [25] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/PDD-Raihan_Firdaus_Alfaritsi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
-* **Jabatan:** [-]
-* **TTL:** [-]
-* **Nomer Handphone:** [-]
-* **Username GitHub:** @[-]
-* **Asal Daerah:** [-]
+* **Jabatan:** [anggota]
+* **TTL:** [Ngawi,_24_September_2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - [Achmad Alvin Al Falah]
