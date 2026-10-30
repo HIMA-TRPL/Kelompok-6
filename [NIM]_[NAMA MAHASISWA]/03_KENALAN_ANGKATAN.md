@@ -838,7 +838,7 @@ _
 * **Fun Fact:** [SARAPAN_KOPI_IRENK]
 
 ### [18] [264311077] - [MUHAMMAD ZAKIY FUADIY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077 - MUHAMMAD ZAKIY FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
 * **NIM:** [264311077]
 * **TTL:** [PACITAN_7MARET_2006]
