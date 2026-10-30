@@ -463,7 +463,7 @@
 * **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [44g] VOLUNTEER - [Nabil Sunu Widya Dhana]
+### [44] VOLUNTEER - [Nabil Sunu Widya Dhana]
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Nabil_Sunu_Widya_Dhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nabil_Sunu_Widya_Dhana]
 * **Jabatan:** [VOLUNTEER]
@@ -472,14 +472,25 @@
 * **Username GitHub:** @[sunuW]
 * **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
-### [43] VOLUNTEER - [Nabil Sunu Widya Dhana]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Nabil_Sunu_Widya_Dhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Nabil_Sunu_Widya_Dhana]
+
+### [45] Volunteer - Nadya Nur Kamila
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER-Nadya Nur Kamila.jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Nadya_Nur_Kamila]
+* **Jabatan:** [Volunteer]
+* **TTL:** [Madiun,_1_September_2006]
+* **Nomer Handphone:** [085731873063]
+* **Username GitHub:** @[nanayaaa]
+* **Asal Daerah:** [Madiun]
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] VOLUNTEER - [Galang Surya Prasetyo]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Galang_Surya_Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Galang_Surya_Prasetyo]
 * **Jabatan:** [VOLUNTEER]
-* **TTL:** [Bekasi,_15_Maret_2006]
-* **Nomer Handphone:** [089503425359]
-* **Username GitHub:** @[sunuW]
-* **Asal Daerah:** [Ponorogo]
+* **TTL:** [Tenggarong,_19_Februari_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [Kalimantan_Timur]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
