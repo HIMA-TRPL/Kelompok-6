@@ -515,7 +515,7 @@
 * **Fun Fact:** Berani Beda
 
 ### 47 264311047 - Mohamad Fatir
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mohamad Fatir
 * **NIM:** 264311047
 * **TTL:** Madiun, 22 Mei 2007
