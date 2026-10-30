@@ -70,17 +70,6 @@
 * **Asal Sekolah:** [SMK_BP_SUBULUL_HUDA]
 * **Fun Fact:** [TIDAK_SUKA_MAKANAN_PEDAS]
 
-### [07] [264311007] - [AURELYSTA BUNGA DHIAS MAWARNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007-AURELYSTA_BUNGA_DHIAS_MAWARNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [AURELYSTA_BUNGA_DHIAS_MAWARNI]
-* **NIM:** [264311007]
-* **TTL:** [MOJOKERTO_25JUNI_2007]
-* **Nomer Handphone:** [082141028639]
-* **Nama Kelompok:** [SPRING]
-* **Asal Daerah:** [MOJOKERTO]
-* **Asal Sekolah:** [SMAN_1_MOJOSARI]
-* **Fun Fact:** [love_matcha_dan_capybara💚🤎]
-
 ### [08] [264311008] - [BERTHA SAMPOERNA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008-BERTHA_SAMPOERNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BERTHA_SAMPOERNA]
