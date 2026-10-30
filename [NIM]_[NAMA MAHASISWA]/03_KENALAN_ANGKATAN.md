@@ -92,17 +92,6 @@
 * **Asal Sekolah:** SLONCOM
 * **Fun Fact:** -
 
-### 09 264311009 - Bramanta Setya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Bramanta Setya Bagaskara
-* **NIM:** 264311009
-* **TTL:** Malang, 24 November 2007
-* **Nomer Handphone:** 082335095279
-* **Nama Kelompok:** Spring
-* **Asal Daerah:** Malang
-* **Asal Sekolah:** SMKN 1 KEPANJEN
-* **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
-
 ### 10 264311010 - Dava Al Mustoffa Dachlan
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dava Al Mustoffa Dachlan
