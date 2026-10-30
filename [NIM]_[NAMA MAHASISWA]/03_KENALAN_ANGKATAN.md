@@ -114,17 +114,6 @@
 * **Asal Sekolah:** SMAN 1 GEGER
 * **Fun Fact:** Cool
 
-### 11 264311011 - Dhafin Hasya Zaki
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Dhafin Hasya Zaki
-* **NIM:** 264311011
-* **TTL:** Madiun, 28 Juli 2007
-* **Nomer Handphone:** 089699247978
-* **Nama Kelompok:** Spring
-* **Asal Daerah:** Madiun
-* **Asal Sekolah:** SMAN 5 MADIUN
-* **Fun Fact:** RACING ABIEZ
-
 ### 12 264311012 - Dimas Pramodya Bagaskara
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/dimas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dimas Pramodya Bagaskara
