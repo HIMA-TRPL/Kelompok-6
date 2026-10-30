@@ -199,11 +199,11 @@
 ### [19] Sosma - [Muhammad Rofiqul Anam]
 * <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [anggota]
+* **TTL:** [Magetan,05_Maret_2006]
+* **Nomer Handphone:** [08585026348]
+* **Username GitHub:** @[Rofinam]
+* **Asal Daerah:** [Magetan]
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
@@ -307,10 +307,10 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [Ponorogo,11_september_2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannmlnaa]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - [Jimli Dwi Assiddiqi]
