@@ -307,10 +307,10 @@
 * <img src="assets/PANITIA/DKM/DKM - ADRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [04 MARET 2006]
+* **Nomer Handphone:** [08726352778]
+* **Username GitHub:** @[RADITYAFAREZA]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - [Jimli Dwi Assiddiqi]
