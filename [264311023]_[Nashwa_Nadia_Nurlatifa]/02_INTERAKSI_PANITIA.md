@@ -463,14 +463,14 @@
 * **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [44] VOLUNTEER - [Nabil Sunu Widya Dhana]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Nabil_Sunu_Widya_Dhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Nabil_Sunu_Widya_Dhana]
+### [44] VOLUNTEER - [Ervindy Anjuni Nurmasari]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Ervindy_Anjuni_Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Ervindy_Anjuni_Nurmasari]
 * **Jabatan:** [VOLUNTEER]
-* **TTL:** [Bekasi,_15_Maret_2006]
-* **Nomer Handphone:** [089503425359]
-* **Username GitHub:** @[sunuW]
-* **Asal Daerah:** [Ponorogo]
+* **TTL:** [Madiun,_21_Juni_2006]
+* **Nomer Handphone:** []
+* **Username GitHub:** @[erov1n]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamila
