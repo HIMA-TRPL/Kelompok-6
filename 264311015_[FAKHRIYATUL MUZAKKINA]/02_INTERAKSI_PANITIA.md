@@ -253,10 +253,10 @@
 * <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya_Alfareeza_Purnama]
 * **Jabatan:** [Staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [Madiun,4_maret_2006]
+* **Nomer Handphone:** [085784030358]
+* **Username GitHub:** @[radityaalfareza]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] PDD - [Achmad Alvin Al Falah]
