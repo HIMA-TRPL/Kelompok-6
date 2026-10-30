@@ -175,11 +175,11 @@
 ### [17] PSDM - [Azza Auliyaul F.]
 * <img src="assets/PANITIA/PSDM/PDSM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
-* **Jabatan:** [Staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Anggota]
+* **TTL:** [Madiun,19_Nopember_2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [Rejosari, Sawahan, Madiun]
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ---
