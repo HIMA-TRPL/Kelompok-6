@@ -229,11 +229,11 @@
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets/PANITIA/PSDM/AZZA.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** PSDM
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** azzaauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -317,11 +317,11 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota
+* **TTL:** 24 September 2005
+* **Nomer Handphone:** 08895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
