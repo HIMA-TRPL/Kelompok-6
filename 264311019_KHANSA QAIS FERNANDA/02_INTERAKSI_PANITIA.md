@@ -72,10 +72,10 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [Koordinator]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_04]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [ponorogo o2 desember 2005]
+* **Nomer Handphone:** [082295367667]
+* **Username GitHub:** @alan22
+* **Asal Daerah:** PONOROGO
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
