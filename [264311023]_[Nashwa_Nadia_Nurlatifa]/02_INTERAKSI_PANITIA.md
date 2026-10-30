@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [Alvian Dwiky Putra S]
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI-Alvian_Dwiky_Putra_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI-Dzakwan_Daris_Fakhruddin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dzakwan_Daris_Fakhruddin]
 * **Jabatan:** [staff]
 * **TTL:** [Madiun,_13_April_2006]
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [Firdaus Ilham F.]
-* <img src="assets/PANITIA/Dagri/Dagri-Firdaus_Ilham_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI-Firdaus_Ilham_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Firdaus_Ilham_F.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,_01_Januari_2007]
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - [Bangkit Cahya Linuwih]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/Dagri/DAGRI-Bangkit_Cahya_Linuwih.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Bangkit_Cahya_Linuwih]
 * **Jabatan:** [Dagri]
 * **TTL:** [Pacitan,_02_April_2006]
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [Nadia Tifara S.]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/Dagri/DAGRI-Nadia_Tifara_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nadia_Tifara_S.]
 * **Jabatan:** [staff]
 * **TTL:** [Madiun,_27_Desember_2005]
