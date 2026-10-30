@@ -176,10 +176,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [Staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [MADIUN 19 NOVEMBER 2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @azzauliaul
+* **Asal Daerah:**sawahan madiun
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -199,11 +199,11 @@
 ### [19] Sosma - [Muhammad Rofiqul Anam]
 * <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** anggota
+* **TTL:** [MAGETAN 5 MARET 2005]
+* **Nomer Handphone:** [085850296348]
+* **Username GitHub:** @ROFIQanam
+* **Asal Daerah:**MAGETAN
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
