@@ -95,8 +95,6 @@
 ### [09] [264311009] - [BRAMANTA SETYA BAGASKARA]
 <<<<<<< HEAD
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BRAMANTA_SETYA_BAGASKARA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
-=======
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BRAMANTA_SETYA_BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 >>>>>>> 80f3078a5cf9c41c0fa5d13df1c8919c753d87be
 * **Nama Lengkap:** [BRAMANTA_SETYA_BAGASKARA]
 * **NIM:** [264311009]
@@ -161,18 +159,6 @@
 * **Asal Daerah:** [KABUPATEN_MADIUN]
 * **Asal Sekolah:** [SMKN_1_MEJAYAN]
 * **Fun Fact:** [suka_melukis]
-
-
-### [15] [264311015] - [FAKHRIYATUL MUZAKKINA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fakhriyatul Muzakkina.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [FAKHRIYATUL_MUZAKKINA]
-* **NIM:** [264311015]
-* **TTL:** [PROBOLINGGO,_16_JULI_2008]
-* **Nomer Handphone:** [085804028715]
-* **Nama Kelompok:** [SPRING]
-* **Asal Daerah:** [PROBOLINGGO]
-* **Asal Sekolah:** [SMKN_2_KRAKSAAN]
-* **Fun Fact:** [ga_bisa_tidur_klo_ga_nyetel_musik]
 
 ### [16] [264311016] - [FATIKHA ARTEMISIA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016-FATIKHA_ARTEMISIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
