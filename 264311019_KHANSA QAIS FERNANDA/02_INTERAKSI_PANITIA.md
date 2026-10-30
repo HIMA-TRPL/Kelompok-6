@@ -471,7 +471,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Nadya Nur Kamila.jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Aisyah Nur Fadillah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 1 September 2006
@@ -481,7 +481,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
