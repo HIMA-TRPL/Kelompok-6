@@ -104,7 +104,7 @@
 * **Fun Fact:** [SUKA_MENDENGARKAN_MUSIK,_HOBI_OTOMOTIF,_TIDAK_SUKA_BUBUR]
 
 ### [10] [264311010] - [DAVA AL MUSTOFFA DACHLAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010- DAVA_AL_MUSTOFFA_DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010-DAVA_AL_MUSTOFFA_DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DAVA_AL_MUSTOFFA_DACHLAN]
 * **NIM:** [264311010]
 * **TTL:** [MAGETAN,_17_MARET_2007]
@@ -248,7 +248,7 @@
 * **Fun Fact:** [wallahualam😊🩵]
 
 ### [23] [264311023] - [NASHWA NADIA NURLATIFA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023-NASHWA_NADIA_NURLATIFA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
 * **NIM:** [264311023]
 * **TTL:** [BOJONEGORO,_31_MARET_2008]
@@ -270,7 +270,7 @@
 * **Fun Fact:** [bisa_tidur_berdiri]
 
 ### [25] [264311025] - [RAFIQ IMAM ZAINI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025-RAFIQ_IMAM_ZAINI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025-RAFIQ_IMAM_ZAINI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAFIQ_IMAM_ZAINI]
 * **NIM:** [264311025]
 * **TTL:** [BALIKPAPAN,_21_DESEMBER_2005]
