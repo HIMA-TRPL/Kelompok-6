@@ -123,7 +123,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [12] PSDM - [Riyan Zakaria Zulkarnain]
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RYAN ZAKARIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Riyan_Zakaria_Zulkarnain]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,07_September_05]
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] PSDM - [Muhammad Dani T.]
-*<img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/PSDM/MUHAMAD DANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Dani_T.]
 * **Jabatan:** [Staff]
 * **TTL:** [Denpasar,21_Maret_2006]
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM-Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RINDY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,31_Agustus_2006]
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PSDM - [Abdul Aziz Mushthofa]
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/AZIS.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Abdul_Aziz_Mushthofa]
 * **Jabatan:** [Staff]
 * **TTL:** [Tulungagung,13_April_2006]
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] PSDM - [Tiara Maya Lestari]
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/TIARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Tiara_Maya_Lestari]
 * **Jabatan:** [Anggota]
 * **TTL:** [Nganjuk,11_Maret_2006]
@@ -173,7 +173,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] PSDM - [Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/AZZA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,19_November_2005]
@@ -187,7 +187,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [18] Sosma - [Anggi Wahyu Saputra]
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/ANGGI WAHYU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Anggi_Wahyu_Saputra]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Tulungagung,14_Juni_2005]
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
-* i<img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* i<img src="assets/PANITIA/Sosma/EDWIN NUR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Edwin_Nur_Cahyo]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,_01_November_2007]
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] Sosma - [Muhsyam Fahriel S.]
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahrial S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/FAHRIEL.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhsyam_Fahriel_S.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Ngawi,25_September_2005]
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] Sosma - [Lutfilah Ahmad]
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfillah Ahmad.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/LUTFILLAH.jpeg alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Lutfilah_Ahmad]
 * **Jabatan:** [Staf]
 * **TTL:** [Magetan,30_Januari_2007]
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [23] PDD - [Ardhana Syah Hidayat]
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/ARDHANA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Ardhana_Syah_Hidayat]
 * **Jabatan:** [Korodinator]
 * **TTL:** [Ponorogo,27_Desember_2005]
@@ -251,7 +251,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [24] PDD - [Raditya Alfareeza Purnama]
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/RADITYA ALFAREZA" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya_Alfareeza_Purnama]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun, 04 Maret 2006]
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - [Achmad Alvin Al Falah]
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/ALVIN AL" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Achmad_Alvin_Al_Falah]
 * **Jabatan:** [Staff]
 * **TTL:** [Ponorogo,18_Jananuari_2006]
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] PDD - [Daffa Hafist Atha Kuncoro]
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/DAFFA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Daffa_Hafist_Atha_Kuncoro]
 * **Jabatan:** [Staff]
 * **TTL:** [Surabaya,16_Januari_2007]
@@ -291,7 +291,7 @@
 <!-- Line Comment TTD Panitia 27 wajib ditargetkan pada baris komentar ini -->
 
 ### [28] PDD - [Dinda Rahmawati]
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawatini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/DINDA RAHMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dinda_Rahmawati]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,09_September_2006]
