@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [Alvian Dwiky Putra S]
-* <img src="assets/PANITIA/DAGRI/Dagri - Alvian Dwiky Putra S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DAGRI/DAGRI - Alvian Dwiky Putra S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [Koordinator]
 * **TTL:** [TTL]
