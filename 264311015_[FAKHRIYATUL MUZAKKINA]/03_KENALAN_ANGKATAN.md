@@ -164,7 +164,7 @@
 
 
 ### [15] [264311015] - [FAKHRIYATUL MUZAKKINA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRIYATUL_MUZAKKINA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRIYATUL MUZAKKINA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FAKHRIYATUL_MUZAKKINA]
 * **NIM:** [264311015]
 * **TTL:** [PROBOLINGGO,_16_JULI_2008]
