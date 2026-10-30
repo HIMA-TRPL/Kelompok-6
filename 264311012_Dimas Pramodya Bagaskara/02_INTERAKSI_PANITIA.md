@@ -253,11 +253,11 @@
 ### [24] Sosma - Muhammad Rofiqul Anam
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** anggota
+* **TTL:** Magetan 5 Maret 2006
+* **Nomer Handphone:** 085850296348
+* **Username GitHub:** @RofiqAnam
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
@@ -480,7 +480,7 @@
 - **Nama Panitia:** Ervindy Anjuni Nurmasari
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 21 Juni 2006
-- **Nomer Handphone:** -
+- **Nomer Handphone:** 085733213487
 - **Username GitHub:** @erov1n
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
