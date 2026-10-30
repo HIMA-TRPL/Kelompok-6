@@ -728,7 +728,7 @@
 * **Fun Fact:** CINTA MATI UB
 
 ### 66 264311066 - Dwi Riski Nugroho
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/dwi riski.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/dwi riskiiii.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dwi Riski Nugroho
 * **NIM:** 264311066
 * **TTL:** Ponorogo, 22 April 2007
