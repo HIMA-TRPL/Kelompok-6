@@ -347,7 +347,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] DKM - [Silfina Nur Fadilah]
-* <img src="assets/PANITIA/DKM/DKM-Andrian_Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM-Silfina_Nur_Fadilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Silfina_Nur_Fadilah]
 * **Jabatan:** [anggota]
 * **TTL:** [Magetan,_02_Oktober_2006]
