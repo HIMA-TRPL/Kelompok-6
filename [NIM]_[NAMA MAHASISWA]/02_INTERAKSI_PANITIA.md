@@ -250,7 +250,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [24] PDD - [Raditya Alfareeza Purnama]
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama 2.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya_Alfareeza_Purnama]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,4_maret_2006]
