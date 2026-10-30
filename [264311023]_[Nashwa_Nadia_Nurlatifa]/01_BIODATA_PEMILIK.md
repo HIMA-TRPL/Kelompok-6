@@ -1,0 +1,14 @@
+# 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
+
+## 👤 I. DATA DIRI MAHASISWA BARU
+* **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
+* **NIM:** [264311023]
+* **TTL:** [BOJONEGORO_31_MARET_2008]
+* **Nomer Handphone:** [083117678815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [KABUPATEN_BOJONEGORO]
+* **Asal Sekolah:** [SMAN_5_TARUNA_BRAWIJAYA]
+* **Fun Fact:** [LAGI_REWATCH_MARVEL]
+
+---
+
