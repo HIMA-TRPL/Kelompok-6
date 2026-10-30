@@ -795,7 +795,7 @@
 * **Fun Fact:** [SUKA_MAIN_FUTSAL,_GAME]
 
 ### [72] [264311072] - [IZZATA WIHANANGKU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072-IZZATA_WIHANANGKU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [IZZATA_WIHANANGKU]
 * **NIM:** [264311072]
 * **TTL:** [PONOROGO,_06_AGUSTUS_2007]
