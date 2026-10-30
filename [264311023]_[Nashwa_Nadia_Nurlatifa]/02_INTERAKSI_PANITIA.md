@@ -219,7 +219,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] Sosma - [Muhsyam Fahriel S.]
-* <img src="assets/PANITIA/Sosma/SOSMA-Muhsyam_Fahriel_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA-Muhsyam_Fahriel_S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhsyam_Fahriel_S.]
 * **Jabatan:** [anggota]
 * **TTL:** [Ngawi,_25_September_2005]
