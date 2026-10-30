@@ -145,11 +145,11 @@
 ### [14] PSDM - [Rindy Cantika Agustina P.]
 *  <img src="assets/PANITIA/PSDM/PSDM-Rindy_Cantika_Agustina_P.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [anggota]
+* **TTL:** [Madiun,_31_Agustus_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PSDM - [Abdul Aziz Mushthofa]
@@ -176,11 +176,11 @@
 ### [17] PSDM - [Azza Auliyaul F.]
 * <img src="assets/PANITIA/PSDM/PSDM-Azza_Auliyaul_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
-* **Jabatan:** [staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [anggota]
+* **TTL:** [Madiun,_19_November_2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [Rejosari,_Sawahan,_Madiun]
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 
@@ -201,11 +201,11 @@
 ### [19] Sosma - [Muhammad Rofiqul Anam]
 * <img src="assets/PANITIA/Sosma/SOSMA-Muhammad_Rofiqul_Anam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_11]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [anggota]
+* **TTL:** [Magetan,_5_Maret_2006]
+* **Nomer Handphone:** [085850296348]
+* **Username GitHub:** @[RofiqAnam]
+* **Asal Daerah:** [Magetan]
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
@@ -256,20 +256,20 @@
 * <img src="assets/PANITIA/PDD/PDD-Raditya_Alfareeza_Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya_Alfareeza_Purnama]
 * **Jabatan:** [staff]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_14]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [Madiun,_4_Maret_2006]
+* **Nomer Handphone:** [085784030358]
+* **Username GitHub:** @[radityaalfareza]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/PDD-Raihan_Firdaus_Alfaritsi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_15]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [-]
+* **TTL:** [-]
+* **Nomer Handphone:** [-]
+* **Username GitHub:** @[-]
+* **Asal Daerah:** [-]
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - [Achmad Alvin Al Falah]
@@ -310,10 +310,10 @@
 * <img src="assets/PANITIA/DKM/DKM-Andrian_Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [koordinator]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_16]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [Ponorogo,_19_September_2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannmlnaa]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - [Jimli Dwi Assiddiqi]
