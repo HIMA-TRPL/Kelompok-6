@@ -73,7 +73,7 @@
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,2_Desember_2005]
-* **Nomer Handphone:** [82292537622]
+* **Nomer Handphone:** [082292537622]
 * **Username GitHub:** @[alvn22]
 * **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM - RRindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Mandiun,31_Agustus_2006]
@@ -173,7 +173,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] PSDM - [Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/PDSM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,19_November_2005]
@@ -411,11 +411,11 @@
 ## 🏛️ VOLUNTEER
 
 ### [39] VOLUNTEER - [Septian Angga Saputra]
-* <img src="assets/PANITIA/VOLUNTEER/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Septian Angga Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Septian_Angga_Saputra]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Ponorogo,12_September_2006]
-* *Nomer Handphone:* [89615148475]
+* *Nomer Handphone:* [089615148475]
 * *Username GitHub:* @[Sptangs]
 * *Asal Daerah:* [Ponorogo]
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
@@ -425,7 +425,7 @@
 * *Nama Panitia:* [Indah_Ayu_Astuti]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Ponorogo,27_Desember_2006]
-* *Nomer Handphone:* [85708935152]
+* *Nomer Handphone:* [085708935152]
 * *Username GitHub:* @[IndahAyu27]
 * *Asal Daerah:* [Ponorogo]
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
@@ -435,7 +435,7 @@
 * *Nama Panitia:* [Kunni_Sofa_Rahmayani]
 * *Jabatan:* [Volunteer]
 * *TTL:* [Madiun,04_Juli_2006]
-* *Nomer Handphone:* [81357895790]
+* *Nomer Handphone:* [081357895790]
 * *Username GitHub:* @[rhmaxyn]
 * *Asal Daerah:* [Madiun]
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - [Galang Surya Prasetyo]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Galang Surya Prasetyo" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Galang Surya Prasetyo.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Galang_Surya_Prasetyo]
 * **Jabatan:** [Volunteer]
 * **TTL:** [tenggarong,19_februari_2007]
