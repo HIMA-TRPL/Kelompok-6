@@ -466,12 +466,12 @@
 ### [44] Volunteer - Galang
 
 - <img src="assets/PANITIA/Volunteer/Volunteer - Galang.jpg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-- **Nama Panitia:** -
-- **Jabatan:** Volunteer
-- **TTL:** -
-- **Nomer Handphone:** -
-- **Username GitHub:** -
-- **Asal Daerah:** -
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer 
+* **TTL:** Tanggarong, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** PrassHere
+* **Asal Daerah:** Kalimantan timur
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Ervindy Anjuni Nurmasari
