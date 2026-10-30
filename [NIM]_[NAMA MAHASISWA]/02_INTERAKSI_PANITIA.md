@@ -176,10 +176,10 @@
 * <img src="assets/PANITIA/PSDM/PDSM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [Staff]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [Madiun,19_November_2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [Rejosari,sawahan,Madiun]
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -199,11 +199,11 @@
 ### [19] Sosma - [Muhammad Rofiqul Anam]
 * <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Anggota]
+* **TTL:** [Magetan,05_Maret_2006]
+* **Nomer Handphone:** [085850296348]
+* **Username GitHub:** @[RofiqAnam]
+* **Asal Daerah:** [Magetan]
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Edwin Nur Cahyo]
@@ -307,10 +307,10 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **TTL:** [Ponorogo,19_September_2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannmlnaa]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - [Jimli Dwi Assiddiqi]
@@ -367,7 +367,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/HUMAS/HUMAS - Muhammad Raufa Hafid W..jeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - Muhammad Raufa Hafid W..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_Widodo]
 * **Jabatan:** [Anggota_Humas]
 * **TTL:** [Madiun,26_September_2005]
