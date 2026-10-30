@@ -480,14 +480,14 @@
 * *Asal Daerah:* [Madiun]
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+### [46] Volunteer - galang surya prasetyo
+* <img src="assets/PANITIA/Volunteer/Volunteer - galang surya prasetyo.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [Galang]
 * *Jabatan:* [Volunteer]
-* *TTL:* -
-* *Nomer Handphone:* -
-* *Username GitHub:* -
-* *Asal Daerah:* -
+* *TTL:* [tenggarong,19_februari_2007]
+* *Nomer Handphone:* [081247074623]
+* *Username GitHub:* [PrassHere]
+* *Asal Daerah:* [kalimantan_timur]
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
